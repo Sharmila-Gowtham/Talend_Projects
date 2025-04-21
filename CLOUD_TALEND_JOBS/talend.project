@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_dSTtcB4bEfCXg8RgGKAifA" label="Cloud_Talend_Jobs" description="learning the steps related to connecting the git repo to cloud" language="java" technicalLabel="CLOUD_TALEND_JOBS" author="_dSTtcR4bEfCXg8RgGKAifA" productVersion="Talend Cloud Data Management Platform-8.0.1.20240524_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/sharmila-ashok/Talend_Projects.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_dUzn0B4bEfCXg8RgGKAifA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_dSTtcR4bEfCXg8RgGKAifA" login="sharmilajithya@trial00325.in.talend.com" firstName="sharmila" lastName="jithya" type="DQ"/>
+  <TalendProperties:User xmi:id="_1bgtkB7VEfCcEMgGri_9XA" login="sharmilaashok2017@trial00325.in.talend.com" firstName="sharmila" lastName="ashok" type="DQ"/>
+  <TalendProperties:User xmi:id="_1bgtkR7VEfCcEMgGri_9XA" login="jithya123@trial00325.in.talend.com" firstName="jithya" lastName="pulipati" type="DQ"/>
+  <TalendProperties:User xmi:id="_1bgtkh7VEfCcEMgGri_9XA" login="sharmila0223@trial00325.in.talend.com" firstName="sharmila" lastName="pulipati" type="DQ"/>
+</xmi:XMI>
